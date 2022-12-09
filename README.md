@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ikromnurrohim
-- 👀 I’m interested in Web Developer and Webmethods API Gateway
-- 🌱 I’m currently learning Django, to become expertise on Django
-- 💞️ I’m looking to collaborate on Building Software
+👋 Hi, I’m @ikromnurrohim \
+🇮🇩 I'm live in Indonesia \
+🙆🏻‍♂️ Currently I'm 21 years old \
+👀 I’m interested in Web Developer and Webmethods API Gateway \
+🌱 I’m currently learning Django, to become expertise on Django \
+💞️ I’m looking to collaborate on Building Software 
 
 <!---
 ikromnurrohim/ikromnurrohim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
