@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Instagram-ikromnurrohim-red)
 ![](https://img.shields.io/badge/Youtube-ikromnurrohim-orange)
 ![](https://img.shields.io/badge/Telegram-ikromnurrohim-blue) \
-👋 Hi, I’m @ikromnurrohim \
+👋 Hi, my name is Ikrom Nur Rohim \
 🇮🇩 I'm live in Indonesia \
 🙆🏻‍♂️ Currently I'm 21 years old \
 👀 I’m interested in Web Developer and Webmethods API Gateway \
