@@ -5,9 +5,9 @@
 ![](https://img.shields.io/badge/Gitlab-ikromnurrohim-orange)\
 👋 Hi, my name is Ikrom Nur Rohim \
 🇮🇩 I'm live in Indonesia \
-🙆🏻‍♂️ Currently I'm 21 years old \
+🙆🏻‍♂️ Currently I'm 22 years old \
 👀 I’m interested in Web Developer and Webmethods API Gateway \
-🌱 I’m currently learning Django, to become expertise on Django \
+🌱 I’m currently learning Rocket Web Framwork, to become expertise on Rocket \
 💞️ I’m looking to collaborate on Building Software 
 
 <!---
